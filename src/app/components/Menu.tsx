@@ -8,9 +8,9 @@ const Menu = () => {
         <li>
           <Link href="/">Home</Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="/upload">Upload</Link>
-        </li>
+        </li> */}
       </ul>
       <style jsx>{`
         nav {
