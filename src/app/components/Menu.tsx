@@ -14,7 +14,7 @@ const Menu = () => {
       </ul>
       <style jsx>{`
         nav {
-          background-color: #333;
+          background-color: #white;
           padding: 1rem;
         }
         ul {
